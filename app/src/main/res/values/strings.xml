@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WA Status Vid Trimmer</string>
+    <string name="uploadVideo">Select\nVideo</string>
+    <string name="cutVideo">Cut\nVideo</string>
+    <string name="dialogMessage">The process will take some time.Please be patient.</string>
+
+</resources>
